@@ -16,3 +16,10 @@ public class HelloWorld {
 	} // This line is the start of main method.
 
 }
+
+/**
+ * The output is:
+ 
+Hello World!
+
+ */
