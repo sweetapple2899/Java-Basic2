@@ -3,10 +3,10 @@
  * The text after '//' sign is called comment that will not be executed.
  */
 
-// The package name called 'introduction'
+// The package name is 'introduction'
 package introduction; 
 
-//The class name is called 'HelloWorld'
+//The class name is 'HelloWorld'
 public class HelloWorld {  
 
 	public static void main(String[] args) { // This line is the start of main method. 
